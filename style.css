@@ -1,0 +1,123 @@
+
+.cabecalho {
+    height: 130px;
+    width: 100%;
+    background-color: rgb(12, 39,64);
+    align-items:baseline;
+}
+
+.menu {
+    background-color: rgb(206, 220, 234);
+    width: auto;
+    height: 40px;
+    
+}
+.menu .linkMenu {
+    margin-left: 150px ;
+    margin-top: 20px;
+    padding: 5px;
+    text-align: center;
+    font:'sans-serif' 700 bold ;
+    
+}
+.banner {
+    background-color: rgb(12, 39,64);
+    height: 250px;
+    margin: auto 0 ;
+}
+
+.letra1 {
+    text-align: right;
+    color: cornsilk;
+    font-family: 'sans-serif',serif;
+    margin-top: -200px;
+    margin-right: 600px;
+    text-align:right;
+    align-items: center;     
+}
+
+.carrosel {
+    padding: 15px 40px;
+    background-color: rgb(255,249,249);
+    height: 500px;
+}
+
+.card {
+        height: 475px;
+        width: 350px;
+        margin-left: 180px;
+        margin-top: 10px;
+        background-color: rgb(12, 39,64);
+        display:inline-table;
+
+}
+.depoimentos {
+    background-color: rgb(255,249,249);
+    height: 300px;
+}
+
+.subcard {
+    margin-left: 300px;
+    width: 250px;
+    height: 300px;
+    background-color: rgb(12,39,64,90%);
+    border-radius: 18px;
+    display: inline-table;
+}
+
+.fontRodape {
+    text-align: right;
+    color: cornsilk;
+    font-family: 'sans-serif',serif;
+    font-weight: 900 bold;
+    margin-top: -100px;
+    margin-right: 800px;
+    text-align:right;
+    align-items: center;     
+}
+
+.buy-btn {
+    padding: 2px;
+    background-color:rgb(45,244,77);
+    border: none;
+    height: 40px;
+    width: 120px;
+    border-radius: 20px;
+    font-family: sans-serif;
+    font:larger;
+    margin-right: 40px;
+}
+
+.checked {
+    color: orange;
+  }
+
+.info-btn {
+    width:70px;
+    height:30px;
+    border: 2px solid rgb(206, 220, 234);
+    background-color: white;
+    border-radius: 20px;
+}
+
+h4 {
+    padding: 5px;
+    color: cornsilk;
+    font: sans-serif, italic;
+    font-size: medium;
+}
+
+h3 {
+    padding: 1px;
+    font: sans-serif;
+    font-weight:400;
+    font-style: italic; 
+    font-size:larger;
+    color: cornsilk;
+
+}
+h2 {
+    font: sans-serif;
+    font-weight:600;
+    color: rgb(12, 39,64);
+}

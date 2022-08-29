@@ -1,0 +1,16 @@
+
+.cab{
+    width: 960px;
+    height:  1080px;
+    background-color: azure;
+}
+
+.box-login {
+    width: 220px;
+    height: 120px;
+    background-color: rgb(12, 39,64, 1%);
+    margin-top:460px;
+    margin-left: 800px ;
+    border-radius:15px ;
+    align-items: center;
+}
